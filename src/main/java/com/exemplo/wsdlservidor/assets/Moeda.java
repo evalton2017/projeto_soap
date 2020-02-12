@@ -34,7 +34,8 @@ public enum Moeda {
 
     GBP,
     EUR,
-    BRL;
+    BRL,
+	DOLAR;
 
     public String value() {
         return name();
